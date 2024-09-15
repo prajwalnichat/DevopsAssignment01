@@ -1,1 +1,2 @@
-Changes for conflict
+Changes for commit2
+
